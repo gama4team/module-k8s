@@ -1,0 +1,8 @@
+vpc_id	       = "vpc-0735473c0650139ff"
+name_subnets    = "*treiname*" 
+ami            = "ami-054a31f1b3bf90920"
+ec2Type_proxy  = "t2.medium"
+ec2Type_master = "t2.large"
+ec2Type_workers = "t2.large"
+key_name       = "key_wrmeplt_v2"
+project        = "team4gama" 
